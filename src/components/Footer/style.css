@@ -1,0 +1,12 @@
+.footer {
+    margin-top: 60px;
+    min-height: 1px;
+    background-color: #0112fde8;
+    width: auto;
+    position: relative;
+  }
+  
+  .footer > .container {
+    padding-right: 15px;
+    padding-left: 15px;
+  }
